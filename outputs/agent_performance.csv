@@ -1,0 +1,11 @@
+agent_id,agent_name,seniority,tickets_handled,avg_resolution_days,avg_satisfaction,sla_met_count
+AGT_026,Krista Levine,Mid,171,16.76,3.29,19
+AGT_040,Crystal Evans,Junior,216,14.86,3.28,42
+AGT_019,Laurie Gill,Mid,198,16.6,3.22,32
+AGT_009,Kaitlyn Davis,Senior,198,15.54,3.21,29
+AGT_027,Felicia Maxwell,Senior,194,15.49,3.21,30
+AGT_038,Sharon Hodge,Junior,192,16.31,3.19,28
+AGT_043,Stephen Rasmussen,Senior,202,15.67,3.19,31
+AGT_033,Marvin Peterson DDS,Mid,213,15.21,3.18,41
+AGT_008,Johnathan Sexton,Senior,209,16.01,3.17,31
+AGT_031,Lisa Morris,Senior,184,15.81,3.17,28

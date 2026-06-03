@@ -1,0 +1,6 @@
+department,total_tickets,sla_met_count,sla_compliance_pct
+IT,2042,338,16.55
+Finance,1875,301,16.05
+HR,2051,328,15.99
+Operations,1973,312,15.81
+Facilities,2059,325,15.78

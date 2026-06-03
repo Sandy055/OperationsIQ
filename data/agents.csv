@@ -1,0 +1,51 @@
+agent_id,agent_name,department,hire_date,seniority
+AGT_001,Katherine Taylor,Finance,2024-07-04,Junior
+AGT_002,Ethan Brown,Facilities,2023-02-26,Mid
+AGT_003,David Jones,HR,2023-09-04,Junior
+AGT_004,Kristine Rice,HR,2025-08-21,Junior
+AGT_005,Brian Arellano,Finance,2021-07-23,Mid
+AGT_006,Morgan Kane,HR,2026-02-09,Senior
+AGT_007,Bridget Kramer,IT,2026-01-26,Mid
+AGT_008,Johnathan Sexton,HR,2025-01-02,Senior
+AGT_009,Kaitlyn Davis,Finance,2024-06-27,Senior
+AGT_010,Elizabeth Mitchell,Facilities,2022-09-04,Senior
+AGT_011,Dawn Robbins,Finance,2026-05-11,Senior
+AGT_012,Allen Nguyen,Facilities,2021-06-14,Junior
+AGT_013,Dana Young MD,Facilities,2023-06-01,Mid
+AGT_014,Jennifer Bridges,Facilities,2022-04-17,Junior
+AGT_015,Mary Garcia,Finance,2024-05-01,Mid
+AGT_016,Corey Cox,Finance,2023-01-15,Junior
+AGT_017,Aaron Gonzalez,Operations,2021-09-30,Junior
+AGT_018,Brian Simmons,HR,2021-06-26,Junior
+AGT_019,Laurie Gill,Facilities,2023-11-16,Mid
+AGT_020,Russell Mitchell,HR,2025-08-07,Senior
+AGT_021,Crystal Nicholson,Facilities,2021-10-01,Junior
+AGT_022,Margaret Wilkinson,Operations,2024-04-21,Mid
+AGT_023,Katrina Griffin,Finance,2024-02-24,Mid
+AGT_024,Michael Cowan DVM,HR,2022-09-26,Junior
+AGT_025,Robin Hartman,Operations,2022-06-27,Mid
+AGT_026,Krista Levine,IT,2024-12-30,Mid
+AGT_027,Felicia Maxwell,Facilities,2024-04-18,Senior
+AGT_028,Tony Gibson,Finance,2021-11-29,Senior
+AGT_029,Aaron Thompson,Finance,2024-06-17,Junior
+AGT_030,Charles Castaneda,IT,2026-05-04,Junior
+AGT_031,Lisa Morris,HR,2024-12-07,Senior
+AGT_032,Jennifer Kelley,Operations,2024-12-30,Mid
+AGT_033,Marvin Peterson DDS,HR,2022-04-01,Mid
+AGT_034,Theresa Green,Finance,2022-07-23,Senior
+AGT_035,Billy Wood,Facilities,2026-03-02,Mid
+AGT_036,Daniel Rosales,Facilities,2022-08-18,Senior
+AGT_037,Gwendolyn Pierce,IT,2024-05-18,Senior
+AGT_038,Sharon Hodge,Finance,2026-01-07,Junior
+AGT_039,Theresa Miller,HR,2022-08-04,Mid
+AGT_040,Crystal Evans,Finance,2022-03-30,Junior
+AGT_041,Kathleen Wright,HR,2022-06-15,Senior
+AGT_042,Thomas Alvarado,Facilities,2021-10-28,Junior
+AGT_043,Stephen Rasmussen,Finance,2024-09-06,Senior
+AGT_044,Jonathan Gardner,Facilities,2023-11-06,Mid
+AGT_045,Jodi Johnston,Finance,2024-09-17,Mid
+AGT_046,Dr. Patrick Alexander MD,Operations,2024-06-22,Junior
+AGT_047,Katherine Morris,Facilities,2022-04-18,Senior
+AGT_048,Cassandra Zuniga,IT,2021-12-19,Junior
+AGT_049,Susan Vasquez,Operations,2024-11-25,Junior
+AGT_050,Raymond Butler,HR,2026-05-09,Junior

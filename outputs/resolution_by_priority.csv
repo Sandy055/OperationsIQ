@@ -1,0 +1,5 @@
+priority,total_tickets,avg_resolution_days,sla_target_days
+Critical,2057,15.49,1
+High,2013,15.54,3
+Medium,1946,15.91,7
+Low,1957,15.55,14
